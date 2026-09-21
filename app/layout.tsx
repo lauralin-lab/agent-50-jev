@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Agent/50 — Jev Competitive Intelligence',
-  description: 'Product and go-to-market analysis of agent companies with $50M+ funding rounds.',
+  title: 'Robotics/Map — Live Robotics Intelligence',
+  description: 'Track robotics companies, funding, technical talent, publications, platforms, and live competitive signals.',
 };
 
 export default function RootLayout({

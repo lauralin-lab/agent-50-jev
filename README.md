@@ -1,21 +1,25 @@
-# Agent/50
+# Robotics/Map
 
-An interactive competitive-intelligence demo for exploring agent companies with publicly documented funding rounds of at least $50M.
+An interactive robotics-intelligence tracker covering company funding, technical talent, research publications, platforms, deployments, and live website signals.
 
-The demo compares each company's product, buyer, market wedge, evidence, pricing motion, and go-to-market sequence. A TypeSafe/Jev integration can rerank the companies against different startup theses using typed `Choice`, `Score`, and `Noul` judgments.
+The demo compares leading robotics companies across research strength, capital, deployment maturity, and talent density. A TypeSafe/Jev integration classifies live competitive signals with typed `Choice`, `Score`, and `Noul` judgments.
 
 ## Live demo
 
-[Open Agent/50](https://agent-50-jev.lauralin123.chatgpt.site)
+[Open Robotics/Map](https://agent-50-jev.lauralin123.chatgpt.site)
 
-## Included companies
+## Initial landscape
 
-- Sierra
-- Decagon
-- Harvey
-- Cognition
-- Glean
-- Gradial
+- Figure
+- Physical Intelligence
+- Skild AI
+- 1X
+- Apptronik
+- Agility Robotics
+- FieldAI
+- Waabi
+- Shield AI
+- Dexterity
 
 The interface links each profile to its supporting primary source. Company-reported metrics are identified as company claims rather than independent verification.
 
@@ -28,7 +32,7 @@ npm run dev
 
 Open `http://localhost:3000`.
 
-## Enable live Jev ranking
+## Enable live Jev signal classification
 
 Keep the API key server-side:
 
